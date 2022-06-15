@@ -1,0 +1,8 @@
+do listy 1 
+przy przeciazeniach 2 razy przeciazac operator np []
+do odczytu 1) const & operator [] () const {}
+do modyfikacji 2) & operator [] {} ;
+
+
+
+przy iloczynie skalarnym dać wyjątki 
